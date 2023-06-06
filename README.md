@@ -5,7 +5,7 @@ Software engineer
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 ## About
 
@@ -13,7 +13,7 @@ Software engineer
 
 > I'm currently pursuing a **Master's degree in Cybersecurity** to specialize in this field. My goal is to enhance my knowledge and skills to secure digital systems and data. Let's connect and make the digital world safer.
 
-<br/><br/>
+<br/>
 
 📈 my github stats
 
