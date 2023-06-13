@@ -28,7 +28,7 @@
 
 <h3 align="left">Katas:</h3>
 
-![Codewars](https://github.r2v.ch/codewars?user=queztal&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=jotarodriguez&stroke=COLOR)
 
 <h3 align="left">Stats:</h3>
 
