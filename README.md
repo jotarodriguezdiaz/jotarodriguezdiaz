@@ -48,11 +48,13 @@ I thrive in high-stakes environments where enterprise software directly impacts 
 </p>
 
 ---
-
+<!--
 ### 🌐 Connect with me
-
+/*
 <p align="left">
   <a href="https://twitter.com/josecarloswms" target="_blank">
     <img src="https://img.shields.io/twitter/follow/josecarloswms?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
+*/
+-->
