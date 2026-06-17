@@ -23,7 +23,7 @@ I thrive in high-stakes environments where enterprise software directly impacts 
 <table>
   <tr>
     <td>
-      <img height="140" src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified Associate" />
+      <img height="140" width="150" src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified Associate" />
     </td>
     <td valign="middle">
       <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>
