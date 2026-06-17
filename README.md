@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm José Carlos Rodríguez</h1>
-<h3 align="center">I'm a passionate software engineer specializing in .NET development</h3>
+<h3 align="center">I'm a passionate Solution Architech specializing in Azure and .NET development</h3>
 
-> I'm a dedicated software engineer with expertise in **.NET development**. I have a strong understanding of **software engineering principles** and focus on creating efficient and reliable solutions. I enjoy leveraging the capabilities of the .NET framework to build innovative applications that meet business requirements. I thrive in challenging environments and love collaborating to solve complex problems. Let's connect and create great software together! <a href="http://josecarlosrodriguez.es/">Website</a>
+> I'm Software Architect & Tech Lead driving the modernization of public sector tech. Currently leading the architectural design and technical strategy for a mission-critical, large-scale project for the Generalitat de Catalunya. Focused on building scalable, resilient systems and empowering development teams to deliver excellence..
 
-> I'm currently pursuing a **Master's degree in Cybersecurity** to specialize in this field. My goal is to enhance my knowledge and skills to secure digital systems and data. Let's connect and make the digital world safer.
+> As a Solutions Architect & Tech Lead, I combine a deep background in .NET engineering with strategic technical leadership. Currently, I drive the architectural vision and technical execution for a mission-critical, large-scale project for the Generalitat de Catalunya.
 
-- 🔭 I’m currently working on [Salud financiera](http://saludfinanciera.es)
+I specialize in transforming complex business needs into resilient, scalable systems while mentoring engineering teams to foster technical excellence. I thrive in high-stakes environments where software directly impacts thousands of users. Let's connect to talk about system design, tech leadership, or enterprise architecture!
 
-- 🌱 I’m currently learning **Cybersecurity and Privacy**
+- 🔭 I currently work as an Solution Architect and Tech Lead
 
-- 👯 I’m looking to collaborate on **Software project architecture**
-
-- 👨‍💻 All of my projects are available at [https://josecarlosrodriguez.es](https://josecarlosrodriguez.es)
-
-- 📝 I regularly write articles on [https://josecarlosrodriguez.es](https://josecarlosrodriguez.es)
-
-- 💬 Ask me about **.NET, angular and software architectures**
+- 🌱 I’m currently learning **Azure certifications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/josecarloswms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josecarloswms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josecarlosrodriguez1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josecarlosrodriguez1" height="30" width="40" /></a>
 </p>
 
